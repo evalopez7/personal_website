@@ -43,8 +43,8 @@
 #
 
 #9
-<img src="./IMAGE.PNG" style="width:50%; margin:auto; display:block">
-####
+<img src="./IMG_7957.jpeg" style="width:50%; margin:auto; display:block">
+#### Hair time!
 #
 
 <img src="./IMAGE.PNG" style="width:50%; margin:auto; display:block">
