@@ -7,5 +7,5 @@
 #### Move-in Day with ALL my stuff 
 
 #2 
-
+<img src="./..." style="width:50%; margin:auto; display:block">
 #### Grubbing at La Note on the 4th of July  
