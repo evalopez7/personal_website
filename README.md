@@ -38,8 +38,8 @@
 #
 
 #8 
-<img src="./IMAGE.PNG" style="width:50%; margin:auto; display:block">
-####
+<img src="./IMG_7907.JPG" style="width:50%; margin:auto; display:block">
+#### Ezra with Oski 
 #
 
 #9
