@@ -22,5 +22,5 @@
 <img src="./IMAGE.PNG" style="width:50%; margin:auto; display:block">
 #### First Day in Lab 
 
-
+#6
 <img src="./IMAGE.PNG" style="width:50%; margin:auto; display:block">
