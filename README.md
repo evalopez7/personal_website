@@ -23,7 +23,7 @@
 
 
 #5
-<img src="./IMAGE.PNG" style="width:50%; margin:auto; display:block">
+<img src="./IMG_7193 2.jpg" style="width:50%; margin:auto; display:block">
 #### First Day in Lab 
 
 
