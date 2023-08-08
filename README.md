@@ -12,14 +12,15 @@
 
 #3
 <img src="./IMG_7198.JPG" style="width:50%; margin:auto; display:block">
-
 #### Enrollment Day 
-<img src="./IMAGE.PNG" style="width:50%; margin:auto; display:block">
-#4 
 
+#4
+<img src="./IMG_7122.jpeg" style="width:50%; margin:auto; display:block">
 #### Studying hard for our first math quiz :( 
-<img src="./IMAGE.PNG" style="width:50%; margin:auto; display:block">
 
 #5
+<img src="./IMAGE.PNG" style="width:50%; margin:auto; display:block">
 #### First Day in Lab 
+
+
 <img src="./IMAGE.PNG" style="width:50%; margin:auto; display:block">
