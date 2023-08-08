@@ -11,13 +11,15 @@
 #### Grubbing at La Note on the 4th of July  
 
 #3
+<img src="./IMG_7198.JPG" style="width:50%; margin:auto; display:block">
 
-### Enrollment Day 
-
+#### Enrollment Day 
+<img src="./IMAGE.PNG" style="width:50%; margin:auto; display:block">
 #4 
 
-### Studying hard for our first math quiz :( 
+#### Studying hard for our first math quiz :( 
+<img src="./IMAGE.PNG" style="width:50%; margin:auto; display:block">
 
 #5
-
-### First Day in Lab 
+#### First Day in Lab 
+<img src="./IMAGE.PNG" style="width:50%; margin:auto; display:block">
