@@ -28,4 +28,20 @@
 #
 
 #6
-<img src="./IMAGE.PNG" style="width:50%; margin:auto; display:block">
+<img src="./IMG_2714.jpeg" style="width:50%; margin:auto; display:block">
+#### Sarah and I using public transportation and somehow arriving at the Golden Gate Bridge 
+# 
+
+#7 
+
+####
+#
+
+#8 
+
+####
+#
+
+#9
+####
+#
