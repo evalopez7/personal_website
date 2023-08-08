@@ -7,5 +7,17 @@
 #### Move-in Day with ALL my stuff 
 
 #2 
-<img src="./..." style="width:50%; margin:auto; display:block">
+<img src="./56850EC5-C58F-4E9D-8A54-098C132CE098.heic" style="width:50%; margin:auto; display:block">
 #### Grubbing at La Note on the 4th of July  
+
+#3
+
+### Enrollment Day 
+
+#4 
+
+### Studying hard for our first math quiz :( 
+
+#5
+
+### First Day in Lab 
