@@ -33,8 +33,8 @@
 # 
 
 #7 
-<img src="./IMAGE.PNG" style="width:50%; margin:auto; display:block">
-####
+<img src="./IMG_5905.jpeg" style="width:50%; margin:auto; display:block">
+#### and the next weekend going to the Painted Ladies 
 #
 
 #8 
